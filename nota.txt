@@ -2,3 +2,5 @@ PORT=3000
 DB_CNN=mongodb+srv://mean_user:aFpWYBDmW3bQ59hS@cluster0-6vacb.mongodb.net/hospitaldb
 JWT_SECRET=Holammsisijrcboxeiwi289
 
+GOOGLE_ID=290930458780-bv9ib00n11lpgmsjbgp2cojujpeua1te.apps.googleusercontent.com
+GOOGLE_SECRET=wHiRPXdnivKFHtBWAdl4gDQl
